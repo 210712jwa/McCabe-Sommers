@@ -21,6 +21,10 @@ To-do list:
 - Would like to finish receipt picture upload section of the reimbursement ticket.
 
 
+
+(will come back to this after I finish project 1)
+
+
 Getting Started
 (include git clone command) (include all environment setup steps)
 
