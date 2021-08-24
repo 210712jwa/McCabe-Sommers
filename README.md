@@ -4,21 +4,21 @@ Expense Reimbursement System (ERS)
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 Technologies Used
-Tech 1 - Java
-Tech 2 - JavaScript
-Tech 3 - HTML
-Tech 4 - CSS
-Tech 5 - Hibernate
-Tech 6 - Mockito
+- Java
+- JavaScript
+- HTML
+- CSS
+- Hibernate
+- Mockito
 
 Features
-Access levels including user and admin
-Able to post reimbursement tickets as Employee on employee landing page
-Able to approve/deny reimbursement tickets as Financial Manager on admin landing page
+- Access levels including user and admin
+- Able to post reimbursement tickets as Employee on employee landing page
+- Able to approve/deny reimbursement tickets as Financial Manager on admin landing page
 
 To-do list:
-Would like to make admins able to post reimbursement tickets without having to log into an employee account.
-Would like to finish receipt picture upload section of the reimbursement ticket.
+- Would like to make admins able to post reimbursement tickets without having to log into an employee account.
+- Would like to finish receipt picture upload section of the reimbursement ticket.
 
 
 Getting Started
